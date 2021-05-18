@@ -32,8 +32,6 @@ Escribe un programa que juege a piedra papel o tijeras entre dos jugadores.
 
 El objetivo es el indicado :point_up:, pero si se complica en cumplir paso a paso lo solicitado, se puede abreviar tanto como necesiten considerando que el objetivo es que entre dos selecciones se indique quien gana en el juego de *piedra, papel o tijeras*.
 
-### Ejercicio 3
-Pendiente!
 
 :heart: Los quiero. Hagan los deberes! :sunglasses:
 
