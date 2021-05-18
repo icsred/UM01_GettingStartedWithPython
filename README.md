@@ -1,7 +1,7 @@
 # Getting Started With Python
 En este ejercicio vamos a practicar expresiones, condiciones, funciones y iteraciones en Python conforme los temas vistos en [UM01 Programming for Everybody!](https://web.microsoftstream.com/channel/bebe13e3-93b5-463d-bc0e-d2f36fffaec5)
 
-**Presentación:** cada uno va a escribir su propio código en python en el entorno que hayan elegido y van a subir a este repositorio una copia de su trabajo. Ver ejemplo `la prueba`.
+**Presentación:** cada uno va a escribir su propio código en python en el entorno que hayan elegido y van a subir a este repositorio una copia de su trabajo. Ver ejemplo `UM01_05LaPrueba`.
 
 **Extras en general**
 - [ ] El programa debe soportar errores del usuario y no romperse.
